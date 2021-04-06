@@ -1,0 +1,12 @@
+C:\Users\M8\source\repos\rngTryout\obj\Debug\netcoreapp2.1\rngTryout.csprojAssemblyReference.cache
+C:\Users\M8\source\repos\rngTryout\obj\Debug\netcoreapp2.1\rngTryout.csproj.CoreCompileInputs.cache
+C:\Users\M8\source\repos\rngTryout\obj\Debug\netcoreapp2.1\rngTryout.AssemblyInfoInputs.cache
+C:\Users\M8\source\repos\rngTryout\obj\Debug\netcoreapp2.1\rngTryout.AssemblyInfo.cs
+C:\Users\M8\source\repos\rngTryout\bin\Debug\netcoreapp2.1\rngTryout.deps.json
+C:\Users\M8\source\repos\rngTryout\bin\Debug\netcoreapp2.1\rngTryout.runtimeconfig.json
+C:\Users\M8\source\repos\rngTryout\bin\Debug\netcoreapp2.1\rngTryout.runtimeconfig.dev.json
+C:\Users\M8\source\repos\rngTryout\bin\Debug\netcoreapp2.1\rngTryout.dll
+C:\Users\M8\source\repos\rngTryout\bin\Debug\netcoreapp2.1\rngTryout.pdb
+C:\Users\M8\source\repos\rngTryout\obj\Debug\netcoreapp2.1\rngTryout.dll
+C:\Users\M8\source\repos\rngTryout\obj\Debug\netcoreapp2.1\rngTryout.pdb
+C:\Users\M8\source\repos\rngTryout\obj\Debug\netcoreapp2.1\rngTryout.genruntimeconfig.cache
